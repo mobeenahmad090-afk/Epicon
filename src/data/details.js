@@ -4,7 +4,7 @@ export const banks = [
   {
     id: "hbl",
     name: "HBL",
-    logo: "/globe.svg",
+    logo: "",
     accountTitle: "MOBEEN",
     accountNumber: "22467913703903",
     iban: "PK02HABB0022467913703903",
