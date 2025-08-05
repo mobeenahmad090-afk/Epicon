@@ -29,7 +29,7 @@ export default function Header() {
             />
           </a>
         </div>
-
+<p>AZADI SALE! All prices shown already have a flat discount applied</p>
         {/* Desktop Nav */}
         <nav className="hidden md:flex gap-6 text-md font-medium">
           <Link
