@@ -27,7 +27,7 @@ export default function Hero() {
         {/* Hero Image */}
         <div className="flex-1 justify-end flex">
           <Image
-            src="/images/home.png"
+            src="/images/14th_Aug.jpg"
             alt="white chaunsa"
             width={500}
             height={400}
